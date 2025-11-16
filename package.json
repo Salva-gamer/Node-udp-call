@@ -1,0 +1,40 @@
+{
+  "name": "udp-call",
+  "version": "0.0.1",
+  "description": "Librería UDP potente con ACK, encriptación y broadcast para Node.js",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "udp-call.js"
+  ],
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "udp",
+    "real-time",
+    "networking",
+    "communication",
+    "p2p",
+    "acknowledgment"
+  ],
+  "contributors": [
+    "@MC_luis_Gamer_YT",
+    "Salva-Gamer"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Salva-Gamer/udp-call.git"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Salva-Gamer/udp-call/issues"
+  },
+  "homepage": "https://github.com/Salva-Gamer/udp-call#readme",
+  "dependencies": {
+    "udp-call": "^0.0.1"
+  }
+}
